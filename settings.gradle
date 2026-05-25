@@ -1,0 +1,5 @@
+rootProject.name = 'Lunara'
+
+include 'lunara-backend'
+include 'lunara-web'
+include 'lunara-mobile'
